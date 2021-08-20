@@ -1,7 +1,6 @@
 import './App.css';
 import { useState } from 'react'
 import Dropdown from './components/Dropdown'
-import Generator from './components/Generator';
 
 function App() {
   const [ color1, setColor1 ] = useState("Red")

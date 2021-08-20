@@ -1,3 +1,6 @@
 .dropdown {
   cursor: pointer;
+  width: 135px;
+  font-size: 30px;
 }
+
